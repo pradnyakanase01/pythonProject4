@@ -26,3 +26,8 @@ print(f"{num} x 9 = {num*9}")
 print(f"{num} x 10 = {num*10}")
 
 
+
+num1 = int(input("Enter the number"))
+
+for i in range(1,11):
+    print(num1,'x',i,'=',num1*i)
