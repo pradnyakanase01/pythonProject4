@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d6e1519-67f7-445d-acf2-de294fbf6811" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exe_13082024/hw01.py" afterDir="false" />
+    <list default="true" id="4d6e1519-67f7-445d-acf2-de294fbf6811" name="Changes" comment="table">
+      <change beforePath="$PROJECT_DIR$/src/exe_13082024/hw01.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/exe_13082024/hw01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +55,19 @@
       <option name="presentableId" value="Default" />
       <updated>1724379372578</updated>
     </task>
+    <task id="LOCAL-00001" summary="table">
+      <option name="closed" value="true" />
+      <created>1724381558242</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724381558242</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="table" />
+    <option name="LAST_COMMIT_MESSAGE" value="table" />
   </component>
 </project>
